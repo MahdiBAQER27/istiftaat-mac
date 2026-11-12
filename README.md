@@ -1,9 +1,7 @@
-# مكتبة الاستفتاءات — 1.1.0 تجهيز5
+# Istiftaati 1.1.0 — build 6
 
-[تحميل آخر حزمة تحديث](https://github.com/MahdiBAQER27/istiftaati-updates/releases/download/v1.1.0-preview/Istiftaati-Mac-Update-1.1.0.zip)
+[Download the fixed update package](https://github.com/MahdiBAQER27/istiftaati-updates/releases/download/v1.1.0-preview/Istiftaati-Mac-Update-1.1.0-build-6.zip)
 
-قناة ملفات التحديث العامة منفصلة الآن عن مستودع التطوير. مستخدم التطبيق لا يحتاج حسابGitHubولا مفاتيح. المستودع الحالي لم يُحوّل إلى خاص تلقائيًا؛ ثبّت تجهيز5واختبره قبل تغيير الخصوصية.
+Install this immutable package manually once to migrate from earlier 1.1.0 builds. Future build packages use separate filenames, never overwritten. No GitHub account or token is needed by app users. Development repository visibility is unchanged until the owner installs the new updater.
 
-[التغييرات والاختبارات والحدود](https://github.com/MahdiBAQER27/istiftaati-updates/releases/tag/v1.1.0-preview)
-
-إذا كنت على1.1.0سابقًا ثبّتZIPالمحدث يدويًا مرة واحدة للانتقال للقناة الجديدة. لا تنزيل نموذج جديد. ملفPDFالمحفوظ برموز لا يعود صحيحًا دون إعادة قراءة الأصل؛ لم يتوفر كتاب المستخدم للتحقق. لا اختبار تثبيت أوPDFKitعلىMacهنا.
+[Release notes and test limitations](https://github.com/MahdiBAQER27/istiftaati-updates/releases/tag/v1.1.0-preview)
